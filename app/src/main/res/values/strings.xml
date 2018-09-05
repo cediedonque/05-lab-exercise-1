@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SHS Student Registration</string>
+    <string name="academic_program">Academic Program</string>
+    <string name="last_name">Last Name</string>
+    <string name="spinner">ABM</string>
+</resources>
